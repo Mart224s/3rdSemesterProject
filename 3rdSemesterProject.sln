@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeightConvertLibrary", "WeightConvertLibrary\WeightConvertLibrary.csproj", "{06C16D84-CBD9-4377-8EFF-CB4178A53759}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestingWeightConverter", "UnitTestingWeightConverter\UnitTestingWeightConverter.csproj", "{BC415FA3-0A6F-4F58-8D82-349753E5F525}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCPServer", "TCPServer\TCPServer.csproj", "{8D35337A-2357-44D3-9DDC-F2D497E0642B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment 1", "Assignment 1", "{C89BFD02-01E0-4260-A14D-076E55F8FDC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{9E121DA9-B7C0-4E99-86DB-17C288D4E3E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment2", "Assignment2", "{A2D9351C-61FE-4AAD-8D26-A3D464DA0BA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment 3", "Assignment 3", "{2FCB5CC6-A106-47A9-8151-E8E6E34369A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C16D84-CBD9-4377-8EFF-CB4178A53759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C16D84-CBD9-4377-8EFF-CB4178A53759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C16D84-CBD9-4377-8EFF-CB4178A53759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C16D84-CBD9-4377-8EFF-CB4178A53759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC415FA3-0A6F-4F58-8D82-349753E5F525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC415FA3-0A6F-4F58-8D82-349753E5F525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC415FA3-0A6F-4F58-8D82-349753E5F525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC415FA3-0A6F-4F58-8D82-349753E5F525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D35337A-2357-44D3-9DDC-F2D497E0642B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D35337A-2357-44D3-9DDC-F2D497E0642B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D35337A-2357-44D3-9DDC-F2D497E0642B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D35337A-2357-44D3-9DDC-F2D497E0642B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E121DA9-B7C0-4E99-86DB-17C288D4E3E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E121DA9-B7C0-4E99-86DB-17C288D4E3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E121DA9-B7C0-4E99-86DB-17C288D4E3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E121DA9-B7C0-4E99-86DB-17C288D4E3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{06C16D84-CBD9-4377-8EFF-CB4178A53759} = {C89BFD02-01E0-4260-A14D-076E55F8FDC1}
+		{BC415FA3-0A6F-4F58-8D82-349753E5F525} = {C89BFD02-01E0-4260-A14D-076E55F8FDC1}
+		{8D35337A-2357-44D3-9DDC-F2D497E0642B} = {A2D9351C-61FE-4AAD-8D26-A3D464DA0BA0}
+		{9E121DA9-B7C0-4E99-86DB-17C288D4E3E0} = {2FCB5CC6-A106-47A9-8151-E8E6E34369A1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6543659E-196B-43A1-9AF8-531E89C8C5D3}
+	EndGlobalSection
+EndGlobal
